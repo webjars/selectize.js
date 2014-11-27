@@ -10,7 +10,7 @@
     
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
-    <artifactId>selectizejs</artifactId>
+    <artifactId>selectize.js</artifactId>
     <version>0.11.2-SNAPSHOT</version>
     <name>selectize.js</name>
     <description>WebJar for selectize.js</description>
@@ -24,10 +24,10 @@
         <requirejs>
             {
                 "paths": {
-                    "selectize.js": "selectize.js"
+                    "selectize-js": "selectize.js"
                 },
                 "shim": {
-                    "selectize.js": ["bootstrap"]
+                    "selectize-js": ["bootstrap"]
                 }
             }
         </requirejs>
