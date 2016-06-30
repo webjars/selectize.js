@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>selectize.js</artifactId>
-    <version>0.12.2</version>
+    <version>0.12.3-SNAPSHOT</version>
     <name>selectize.js</name>
     <description>WebJar for selectize.js</description>
     <url>http://webjars.org</url>
