@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>selectize.js</artifactId>
-    <version>0.12.6</version>
+    <version>0.12.7-SNAPSHOT</version>
     <name>selectize.js</name>
     <description>WebJar for selectize.js</description>
     <url>http://webjars.org</url>
@@ -52,7 +52,7 @@
         <url>http://github.com/webjars/selectize.js</url>
         <connection>scm:git:https://github.com/webjars/selectize.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/selectize.js.git</developerConnection>
-        <tag>selectize.js-0.12.6</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
